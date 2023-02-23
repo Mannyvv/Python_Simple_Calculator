@@ -1,0 +1,23 @@
+Calculator
+
+1. Enter numbers and operator to perform simple arithmitic (addition, subtraction, division, multiplication)
+2. Follows PEMDAS
+3. Window showing what is happening. Ex. 9*3 then pressing enter shows result. Up to 10^9 digits in size
+
+
+Ideas
+-number pad 0-9
+-5 arithmitic buttons (),*,/,+,-
+-Windows showing arithmitic
+
+Libraries
+-Tkinter
+
+Do Do
+# Create number pad
+# Create operator pad
+# Create display Window
+## Will pack each pad into frames that fit in the larger frame
+# User entry from buttons to display Window
+# Perform cals from display Window
+# Display result in same Window
